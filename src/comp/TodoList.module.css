@@ -1,0 +1,28 @@
+.addList__container{
+    width: 50%;
+    background-color: aquamarine;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.addList__container ul {
+    list-style: none;
+}
+
+.addList__container li{
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 10px;
+}
+.addList__container input{
+    margin-right: 10px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.date{
+    padding-left: 50px;
+}
